@@ -6,7 +6,7 @@ I´m Felipe Aguilar, from São Paulo - BR, graduated on mechanical engineering a
 - :rocket:  I’m looking to collaborate with newcomers.
 - :coffee:  I’m looking for help with my coding skills.
 - 💬 Ask me about life, the universe and everything.
-- ⚡ Fun fact: 今は日本語も勉強している :jp:
+- ⚡ Fun fact: 今は日本語も勉強している :rice_ball:
 - :pager: Contact me: [https://www.linkedin.com/in/felipe-aguilar1/]
 
 ---
