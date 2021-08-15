@@ -6,9 +6,9 @@ I´m Felipe Aguilar, from São Paulo - BR, graduated on mechanical engineering a
 - :rocket:  I’m looking to collaborate with newcomers.
 - :coffee:  I’m looking for help with my coding skills.
 - 💬 Ask me about life, the universe and everything.
-- ⚡ Fun fact: 今は日本語も勉強している :flag_jp:
+- ⚡ Fun fact: 今は日本語も勉強している :jp:
 - :pager: Contact me: [https://www.linkedin.com/in/felipe-aguilar1/]
 
-
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipemecprec&theme=gotham&show_icons=true&count_private=true&hide=contribs&card_width=470&line_height=24)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipemecprec&layout=compact&theme=gotham&card_width=445)
