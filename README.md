@@ -2,12 +2,12 @@
 I´m Felipe Aguilar, from São Paulo - BR, graduated on mechanical engineering and after 15 years working on factories,  I am in career transition to coding.
 
 - :tractor:  I’m currently working at Leadfy, an mobile app that helps companies to quickly contact their interested customers.
-- :nerd:  I’m currently learning C, Ruby, React and ElasticSearch.
+- :computer: I’m currently learning C, Ruby, React and ElasticSearch.
 - :rocket:  I’m looking to collaborate with newcomers.
-- :ninja:  I’m looking for help with my coding skills.
+- :coffee:  I’m looking for help with my coding skills.
 - 💬 Ask me about life, the universe and everything.
 - ⚡ Fun fact: 今は日本語も勉強している :flag_jp:
-- ![enter image description here](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg =25x) Contact me: [https://www.linkedin.com/in/felipe-aguilar1/]
+- :pager: Contact me: [https://www.linkedin.com/in/felipe-aguilar1/]
 
 
 
