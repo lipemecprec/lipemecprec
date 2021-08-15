@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋 
+I´m Felipe Aguilar, from São Paulo - BR, graduated on mechanical engineering and after 15 years working on factories,  I am in career transition to coding.
 
-<!--
-**lipemecprec/lipemecprec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :tractor:  I’m currently working at Leadfy, an mobile app that helps companies to quickly contact their interested customers.
+- :nerd:  I’m currently learning C, Ruby, React and ElasticSearch.
+- :rocket:  I’m looking to collaborate with newcomers.
+- :ninja:  I’m looking for help with my coding skills.
+- 💬 Ask me about life, the universe and everything.
+- ⚡ Fun fact: 今は日本語も勉強している :flag_jp:
+- ![enter image description here](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg =25x) Contact me: [https://www.linkedin.com/in/felipe-aguilar1/]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipemecprec&theme=gotham&show_icons=true&count_private=true&hide=contribs&card_width=470&line_height=24)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipemecprec&layout=compact&theme=gotham&card_width=445)
