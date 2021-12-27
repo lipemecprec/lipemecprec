@@ -9,11 +9,10 @@ I´m Felipe Aguilar, from São Paulo - BR, graduated on mechanical engineering a
 - ⚡ Fun fact: 今は日本語も勉強している :rice_ball:
 - :pager: Contact me: [https://www.linkedin.com/in/felipe-aguilar1/]
 ---
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <table>
 	<tr>
-		<th>More</th>
+		<th>Most</th>
 		<td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </td>
 		<td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </td> 
 		<td><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </td> 
@@ -32,7 +31,7 @@ I´m Felipe Aguilar, from São Paulo - BR, graduated on mechanical engineering a
 		<td><a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> </td> 
 	</tr>
 	<tr>
-		<th>Less</th>
+		<th>A little</th>
 		<td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </td> 
 		<td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </td> 
 		<td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </td> 
